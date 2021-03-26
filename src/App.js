@@ -38,7 +38,7 @@ export default function App() {
 
   const handleReset = () => {
     setDisplay([]);
-    setInput(100);
+    setInput(3);
     setNumber("");
   };
 
